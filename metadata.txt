@@ -7,14 +7,14 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=LoadRasterFromShapefileInfo
+name=RasterLoader
 qgisMinimumVersion=2.0
-description=Loads rasters from a location given in a shapefile column
-version=0.1
+description=Loads rasters from locations given by shapefile field values
+version=1.0
 author=Lukas Krieger
 email=lukaskrieger@gmail.com
 
-about=This plugin takes in a field form a shapefile attribute table and loads all rasters given by the shapefile path.
+about=This plugin takes in a field from a shapefile attribute table and loads all rasters given by the path.
 
 tracker=https://github.com/lukaskrieger/RasterLoader/issues
 repository=https://github.com/lukaskrieger/RasterLoader
