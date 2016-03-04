@@ -28,7 +28,7 @@ repository=https://github.com/lukaskrieger/RasterLoader
 # Tags are comma separated with spaces allowed
 tags=database, import, raster, shapefile
 
-homepage=
+homepage=https://github.com/lukaskrieger/RasterLoader
 category=Plugins
 icon=icon.png
 # experimental flag
