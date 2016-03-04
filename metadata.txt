@@ -10,7 +10,7 @@
 name=RasterLoader
 qgisMinimumVersion=2.0
 description=Loads rasters from locations given by shapefile field values
-version=1.0
+version=1.1
 author=Lukas Krieger
 email=lukaskrieger@gmail.com
 
